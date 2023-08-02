@@ -1,4 +1,4 @@
-import 'Person.dart';
+import 'class/person.dart';
 
 void main() {
   print('Introduction:');
